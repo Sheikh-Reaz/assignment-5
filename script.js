@@ -52,29 +52,9 @@ for (let cartButton of cartBtns) {
 
       //   Points.innerText = totalPoint; 
       //   console.log(totalPoint);
-
-
-
-
-
-
-
-   });
-
-
+});
 
 }
-
-// call width point 
-
-
-
-
-
-
-
-
-
 
 
 
@@ -84,12 +64,6 @@ document.getElementById('btn-clear').addEventListener('click', function () {
    callHistoryContainer.innerHTML = "";
 
 })
-
-
-
-
-
-
 
 // heart
 const totalQuantity = document.getElementById('total-quantity');
